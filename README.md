@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @disha-shiyani
+- 👋 Hi, I’m Disha Shiyani 
 
 <!---
 disha-shiyani/disha-shiyani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
